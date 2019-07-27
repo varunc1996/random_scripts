@@ -1,1 +1,3 @@
-# random_scripts
+# RANDOM SCRIPTS
+
+Random scripts to make life easier
